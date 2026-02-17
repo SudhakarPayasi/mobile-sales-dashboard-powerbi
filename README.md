@@ -47,17 +47,8 @@ Data Cleaning & Transformation
 
 📷 Dashboard Preview
 
-(Upload your screenshot and replace the file name below)
+<img width="1547" height="865" alt="dashboard_preview" src="https://github.com/user-attachments/assets/18b11eb9-3634-4a28-96fb-ec8939b4fa8c" />
 
-![Dashboard Preview](dashboard_preview.png)
-
-📁 Repository Structure
-mobile-sales-dashboard-powerbi/
-│
-├── Mobile Sales Dashboard.pbix
-├── dashboard_preview.png
-├── Dashboard_Report.pdf
-└── README.md
 
 🚀 Author
 
